@@ -1,0 +1,6 @@
+<Library>
+	<User Name="admin"><Password>admin</Password><Type>admin</Type></User>
+	<User Name="wwc"><Password>12345</Password><Type>student</Type></User>
+	<User Name="wwe"><Password>12345</Password><Type>student</Type></User>
+	<User Name="qwe"><Password>12345</Password><Type>student</Type></User>
+</Library>
